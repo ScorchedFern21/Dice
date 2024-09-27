@@ -1,0 +1,5 @@
+"Dice" is a tool that allows the user to roll up to six, six sided die. This software includes text art.
+
+Thanks!
+
+-Eli Zetzsche 2024 
